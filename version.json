@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "build": 2,
-  "download_url": "https://github.com/jiturbur/ArkiaOS/releases/download/v0.1.1/ArkiaOS_Workshop_Setup.exe",
-  "changelog": "🐛 Corrección de errores y mejoras de estabilidad"
+  "version": "0.2.0",
+  "build": 4,
+  "download_url": "https://github.com/jiturbur/ArkiaOS/releases/download/v0.2.0/ArkiaOS_Workshop_Setup_v0.2.0.exe",
+  "changelog": "🐛 Corrección: la versión mostrada en Configuración ahora se actualiza automáticamente\n✨ Mejoras varias"
 }
